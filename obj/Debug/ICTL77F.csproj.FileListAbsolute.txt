@@ -1,0 +1,5 @@
+E:\Code\KioskLibrary\ICTL77F\bin\Debug\ICTL77F.dll
+E:\Code\KioskLibrary\ICTL77F\bin\Debug\ICTL77F.pdb
+E:\Code\KioskLibrary\ICTL77F\obj\Debug\ICTL77F.csproj.CoreCompileInputs.cache
+E:\Code\KioskLibrary\ICTL77F\obj\Debug\ICTL77F.dll
+E:\Code\KioskLibrary\ICTL77F\obj\Debug\ICTL77F.pdb
